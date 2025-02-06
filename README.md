@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Harsh Parmar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next js.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hp5480t@gmail.com
 
 <!---
